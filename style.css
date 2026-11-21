@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(188, 142, 231);
+}
+
+h1{
+    font-weight: bold;
+    font-size: 50px;
+    color: rgb(252, 252, 252);
+}
+p{
+    font-style: italic;
+    font-size: 40px;
+    color: antiquewhite;
+}
+#line1{
+   color: aqua; 
+}
+#line2{
+    color: aquamarine;
+}
+.line3{
+    color: pink;
+}
+p{
+    display: block;
+    color: rgb(72, 128, 16);
+}
